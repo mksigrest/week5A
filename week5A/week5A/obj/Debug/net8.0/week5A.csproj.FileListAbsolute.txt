@@ -1,0 +1,14 @@
+D:\Profiles\mks7398\source\repos\week5A\week5A\bin\Debug\net8.0\week5A.exe
+D:\Profiles\mks7398\source\repos\week5A\week5A\bin\Debug\net8.0\week5A.deps.json
+D:\Profiles\mks7398\source\repos\week5A\week5A\bin\Debug\net8.0\week5A.runtimeconfig.json
+D:\Profiles\mks7398\source\repos\week5A\week5A\bin\Debug\net8.0\week5A.dll
+D:\Profiles\mks7398\source\repos\week5A\week5A\bin\Debug\net8.0\week5A.pdb
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\week5A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\week5A.AssemblyInfoInputs.cache
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\week5A.AssemblyInfo.cs
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\week5A.csproj.CoreCompileInputs.cache
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\week5A.dll
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\refint\week5A.dll
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\week5A.pdb
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\week5A.genruntimeconfig.cache
+D:\Profiles\mks7398\source\repos\week5A\week5A\obj\Debug\net8.0\ref\week5A.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Profiles\\mks7398\\source\\repos\\week5A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10BEEF95-FD68-45C5-A570-498B02A7226D}|week5A\\week5A.csproj|d:\\profiles\\mks7398\\source\\repos\\week5a\\week5a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BEEF95-FD68-45C5-A570-498B02A7226D}|week5A\\week5A.csproj|solutionrelative:week5a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Profiles\\mks7398\\source\\repos\\week5A\\week5A\\Program.cs",
+              "RelativeDocumentMoniker": "week5A\\Program.cs",
+              "ToolTip": "D:\\Profiles\\mks7398\\source\\repos\\week5A\\week5A\\Program.cs",
+              "RelativeToolTip": "week5A\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:10:37.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
